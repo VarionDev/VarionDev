@@ -1,10 +1,5 @@
-                                                                                                                                                         __   __   __   ___    ___           ___    ___                   __        __       __  ___  ___        __     ___           ___          ___       __       
-/  ` /  \ |  \ |__      |  |__|  /\   |      |  |__| | |\ | |__/ /__`      /__` \ / /__`  |  |__   |\/| /__`     |  |__|  /\   |     |    |__   /\  |__) |\ | 
-\__, \__/ |__/ |___     |  |  | /~~\  |      |  |  | | | \| |  \ .__/ .    .__/  |  .__/  |  |___  |  | .__/     |  |  | /~~\  |     |___ |___ /~~\ |  \ | \| 
-                                                                      '                                                                                       
-                                                                                                                                                                           
-                                                                                                                                                                           
-                                                                                                                                                                           
+<img width="1778" height="114" alt="ascii-art-text" src="https://github.com/user-attachments/assets/76dcace1-1a68-47ad-b7a6-bff7f911768c" />
+
     # ✦ V A R I O N D E V
 
 Hi! I'm VarionDev, a developer working on **Artificial Intelligence, automation, and modern web design**.  
