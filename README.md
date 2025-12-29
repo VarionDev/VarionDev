@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python,html,css,js,wordpress,git,linux,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,wordpress,git,linux,vscode,github,bootstrap&theme=dark" />
 
 </div>
 
@@ -59,9 +59,13 @@ VarionDEV یک برند شخصی در حوزه فناوری است با تمرک
 
 
 # 📊 GitHub Stats:
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=VarionDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VarionDEV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VarionDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 ## 🤝 Collaboration | همکاری
 Ideas, issues, and pull requests are welcome | ایده‌ها، ایرادها و پول‌ریکوئست‌ها خوش‌آمد هستند.
 
@@ -87,4 +91,11 @@ Think • Build • Evolve
 © 2025
 
 </div>
+
+<div align="center">
+ 
+  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/snake.svg" alt="snake animation" />
+  
+</div>
+
                                                                                                                                      
