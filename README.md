@@ -92,10 +92,10 @@ Think • Build • Evolve
 
 </div>
 
-<div align="center">
+
  
-  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/blob/output/snake.svg" alt="snake animation" />
   
-</div>
+
 
                                                                                                                                      
