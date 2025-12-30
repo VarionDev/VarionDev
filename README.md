@@ -66,6 +66,9 @@ VarionDEV یک برند شخصی در حوزه فناوری است با تمرک
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VarionDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+---
+
 ## 🤝 Collaboration | همکاری
 Ideas, issues, and pull requests are welcome | ایده‌ها، ایرادها و پول‌ریکوئست‌ها خوش‌آمد هستند.
 
@@ -76,6 +79,7 @@ GitHub → VarionDEV
 <br clear="both">
 
 <div align="center">
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -93,13 +97,12 @@ Think • Build • Evolve
 </div>
 
 
- 
-  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-
-  ![Snake animation](https://github.com/VarionDEV/VarionDEV/blob/output/github-contribution-grid-snake.svg)
-
-  
-
+ <div align="center"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake.svg">
+</picture>  
+</div>
 
                                                                                                                                      
