@@ -70,7 +70,7 @@ VarionDEV یک برند شخصی در حوزه فناوری است با تمرک
 ---
 
 ## 🤝 Collaboration | همکاری
-Ideas, issues, and pull requests are welcome | ایده‌ها، ایرادها و پول‌ریکوئست‌ها خوش‌آمد هستند.
+Ideas, issues, and pull requests are welcome |آماده دریافت ایده‌ها، ایرادها و پول‌ریکوئست‌ها هستیم .
 
 ## 📫 Contact | ارتباط
 GitHub → VarionDEV
@@ -89,20 +89,23 @@ GitHub → VarionDEV
 
 
 
-<div align="center">
-## ⚡ VARIONDEV
-Think • Build • Evolve
-© 2025
-
-</div>
 
 
+## GitHub Activity Snake
  <div align="center"> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/output/github-contribution-grid-snake.svg">
 </picture>  
+</div>
+
+
+<div align="center">
+⚡ VARIONDEV
+Think • Build • Evolve
+© 2025
+
 </div>
 
                                                                                                                                      
