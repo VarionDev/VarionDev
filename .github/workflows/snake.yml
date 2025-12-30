@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # هر روز اجرا میشه
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -16,7 +16,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push Snake Animation to repo
         uses: EndBug/add-and-commit@v9
@@ -24,4 +25,6 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Update snake animation"
-          add: "dist/snake.svg"
+          add: "dist/*"
+          push: true
+          branch: output
