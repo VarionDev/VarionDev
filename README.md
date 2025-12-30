@@ -94,7 +94,11 @@ Think • Build • Evolve
 
 
  
-  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/blob/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/VarionDEV/VarionDEV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+
+  ![Snake animation](https://github.com/VarionDEV/VarionDEV/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
