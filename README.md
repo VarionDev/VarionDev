@@ -60,10 +60,22 @@ VarionDEV یک برند شخصی در حوزه فناوری است با تمرک
 
 # 📊 GitHub Stats:
 <div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=VarionDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VarionDEV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VarionDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" align="center">
+      <img
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=VarionDev&show_icons=true&theme=github_dark&hide_border=true&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        width="100%"
+      />
+    </td>
+    <td width="70%" align="center">
+      <img
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=VarionDev&layout=pie&theme=github_dark&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
