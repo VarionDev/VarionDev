@@ -8,7 +8,7 @@
 # ⚡ VARIONDEV
 ### Think • Build • Evolve
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Problem+Solver;Turning+Ideas+Into+Working+Systems;Learning+By+Building+Real+Things;This+Is+Not+A+Tutorial+Repo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Problem+Solver;Turning+Ideas+Into+Working+Systems;Learning+By+Building+Real+Things;This+Is+Varion+!" />
 
 <br/>
 
